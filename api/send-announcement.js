@@ -56,14 +56,18 @@ export default async function handler(req, res) {
         <!-- Message Body -->
         <p>Hi there,</p>
 
-        <p>${message.replace(/\n/g, "<br>")}</p>
+        <p>Thank You for contacting us.<br>
+        We We'll review your request and see if you can get a License.<br>
+        until then please wait for a message from our teams.<br>
+        Then you will know if you got a License thank you.<br>
+        this message is automated so please do not reply unless if an employee emails you.</p>
 
         <p>For assistance in the future, please make sure to contact us here: 
           <a href="https://oldrobloxcorpdatabaseplusxr-14932265.codehs.me/support" style="color:#1155cc;">support team</a>
         </p>
         
         <p>Sincerely,<br>
-        The Oldroblox Team<br>
+        The Oldroblox Portal Team<br>
         OldrobloxCorp</p>
 
         <!-- Footer Logo -->
