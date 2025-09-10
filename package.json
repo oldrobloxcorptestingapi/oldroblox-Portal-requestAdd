@@ -1,0 +1,17 @@
+{
+  "name": "oldroblox-support-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.5"
+  },
+  "devDependencies": {
+    "vercel": "^39.3.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
